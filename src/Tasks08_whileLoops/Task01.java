@@ -11,8 +11,6 @@ Task-> girilen sayıların toplamı 333 gectiğinde girilen sayı adedini ve top
         Scanner input = new Scanner(System.in);
 
 
-
-
         int toplam = 0;
         int count = 0;
 

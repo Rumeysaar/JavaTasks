@@ -4,19 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e301ed9-4b8c-4e27-bf33-edcbbcd0c51b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="2e301ed9-4b8c-4e27-bf33-edcbbcd0c51b" name="Changes" comment="ch08 While Loop tasks">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task06_sayiBulmaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task06_sayiBulmaca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,9 +41,14 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/rumeysaarsevenoglu/IdeaProjects/Tasks/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task02">
-    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.Task01" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Tasks08_whileLoops" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task07">
+    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.Task03" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
@@ -48,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.Task02" />
+    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.Task04" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
@@ -61,12 +73,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tasks08_whileLoops.Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks08_whileLoops.Task01" />
+    <configuration name="Task05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.Task05" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks08_whileLoops.*" />
+          <option name="PATTERN" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task06_sayiBulmaca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.Task06_sayiBulmaca" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.Task07" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,9 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task02" />
-        <item itemvalue="Application.Tasks08_whileLoops.Task01" />
-        <item itemvalue="Application.Task01" />
+        <item itemvalue="Application.Task07" />
+        <item itemvalue="Application.Task06_sayiBulmaca" />
+        <item itemvalue="Application.Task05" />
+        <item itemvalue="Application.Task04" />
+        <item itemvalue="Application.Task03" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +131,26 @@
       <option name="presentableId" value="Default" />
       <updated>1686758183856</updated>
     </task>
+    <task id="LOCAL-00001" summary="ch08 While Loop tasks">
+      <created>1686832723179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686832723179</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ch08 While Loop tasks">
+      <created>1686832892879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686832892879</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ch08 While Loop tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch08 While Loop tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
