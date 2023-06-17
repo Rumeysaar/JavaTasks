@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e301ed9-4b8c-4e27-bf33-edcbbcd0c51b" name="Changes" comment="ch08 While Loop tasks">
+    <list default="true" id="2e301ed9-4b8c-4e27-bf33-edcbbcd0c51b" name="Changes" comment="added tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task06_sayiBulmaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task06_sayiBulmaca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +32,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rumeysaarsevenoglu/IdeaProjects/Tasks/src&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/rumeysaarsevenoglu/IdeaProjects/Tasks/src/Main.java&quot;
   }
 }</component>
@@ -45,14 +40,17 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Tasks08_whileLoops" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Task07">
-    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.Task03" />
+  <component name="RunManager" selected="Application.Odev01Medium">
+    <configuration name="Odev01Medium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks10.Odev01Medium" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.*" />
+          <option name="PATTERN" value="tasks10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Odev01Medium" />
         <item itemvalue="Application.Task07" />
         <item itemvalue="Application.Task06_sayiBulmaca" />
         <item itemvalue="Application.Task05" />
         <item itemvalue="Application.Task04" />
-        <item itemvalue="Application.Task03" />
       </list>
     </recent_temporary>
   </component>
@@ -145,12 +143,20 @@
       <option name="project" value="LOCAL" />
       <updated>1686832892879</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added tasks">
+      <created>1686850918853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686850918853</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ch08 While Loop tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch08 While Loop tasks" />
+    <MESSAGE value="added tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="added tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
