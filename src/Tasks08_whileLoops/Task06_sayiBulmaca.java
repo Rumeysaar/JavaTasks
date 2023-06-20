@@ -1,4 +1,4 @@
-package ch08_Loops.L02_WhileLoop.Tasks08_whileLoops;
+package Tasks08_whileLoops;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -17,7 +17,7 @@ public class Task06_sayiBulmaca {
         Scanner input = new Scanner(System.in);
         System.out.println("1-100 arasinda bir sayi tahmin et");
 
-        int num = random.nextInt(101);
+        int num = random.nextInt(100)+1;
 
         int counter = 0;
 

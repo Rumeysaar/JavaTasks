@@ -1,5 +1,7 @@
 package tasks10;
 
+import java.util.Scanner;
+
 public class Odev01Medium {
     /*
     Ismi randomNum olan bir method oluşturun.
@@ -14,8 +16,7 @@ public class Odev01Medium {
     public static void main(String[] args) {
 
 
-
-
-
     }
+
+
 }

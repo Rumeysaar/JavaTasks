@@ -1,5 +1,6 @@
-package ch08_Loops.L02_WhileLoop.Tasks08_whileLoops;
+package Tasks08_whileLoops;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Task12 {
@@ -11,6 +12,30 @@ public class Task12 {
 		 */
 
 			Scanner scan = new Scanner(System.in);
+		System.out.println("Bir metin giriniz");
+		String metin = scan.nextLine().toLowerCase();
+
+		int harfSayisi = 0;
+		int rakamSayisi = 0;
+		int ozelKarakter = 0;
+
+		int index = 0;
+
+		while (metin.length()>index){
+			if (Character.isDigit(metin.charAt(index)))
+				rakamSayisi++;
+			else if (Character.isAlphabetic(metin.charAt(index)))
+				harfSayisi++;
+			else
+				ozelKarakter++;
+			index++;
+		}
+		System.out.println("harfSayisi = " + harfSayisi);
+		System.out.println("rakamSayisi = " + rakamSayisi);
+		System.out.println("ozelKarakter = " + ozelKarakter);
+
+
+
 
 
 

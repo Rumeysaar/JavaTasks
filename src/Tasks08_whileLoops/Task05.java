@@ -1,4 +1,4 @@
-package ch08_Loops.L02_WhileLoop.Tasks08_whileLoops;
+package Tasks08_whileLoops;
 
 import java.util.Scanner;
 
@@ -11,19 +11,36 @@ public class Task05 {
 
 		 */
 		Scanner input = new Scanner(System.in);
-		System.out.println("adiniz soyadiniz?");
-		String fullName = input.nextLine();
+		System.out.println("adiniz?");
+		String name = input.nextLine().toUpperCase();
+		//String fullName = input.nextLine();
+		char ilkHarf = name.charAt(0);
 
-	    int i = 0;
-	    while (i <= fullName.length()-1) {
-			System.out.print(fullName.charAt(i) + " ");
-			i++;
-	    }
+		System.out.println("soyadiniz");
+		String surname = input.nextLine().toUpperCase();
+		char sonHarf = surname.charAt(surname.length()-1);
+
+		if (ilkHarf <= sonHarf ) {
+
+			while (ilkHarf <= sonHarf) {
+				System.out.print(ilkHarf + " ");
+				ilkHarf++;
+			}
+		}else
+			System.out.println("son harf ilk harften once");
 
 
-		//for (int i = 0; i < fullName.length(); i++) {
+		//int i = 0;
+	    //while (i <= fullName.length()-1) {
 		//	System.out.print(fullName.charAt(i) + " ");
+		//	i++;
+	    //}
+//
+		//while (i <= fullName.charAt(fullName.length()-1)) {
+		//	System.out.print(fullName.charAt(i) + " ");
+		//	i++;
 		//}
+
 
 	}
 

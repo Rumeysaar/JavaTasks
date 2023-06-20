@@ -1,4 +1,6 @@
-package ch08_Loops.L02_WhileLoop.Tasks08_whileLoops;
+package Tasks08_whileLoops;
+
+import java.util.Scanner;
 
 public class Task13 {
     public static void main(String[] args) {
@@ -7,8 +9,17 @@ public class Task13 {
         do-while lopp
          */
 
+        Scanner input = new Scanner(System.in);
+        System.out.println("bir karakter giriniz");
+        char ch = input.nextLine().charAt(0);
 
-
+            while (ch != 'x') {
+                System.out.println("bir karakter giriniz");
+                ch = input.nextLine().charAt(0);
+                System.out.println("javaCAN");
+            break;
+            }
+        System.out.println("jAVATAR");
 
     }
 }

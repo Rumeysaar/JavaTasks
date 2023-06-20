@@ -4,8 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e301ed9-4b8c-4e27-bf33-edcbbcd0c51b" name="Changes" comment="added tasks">
+    <list default="true" id="2e301ed9-4b8c-4e27-bf33-edcbbcd0c51b" name="Changes" comment="task 10 added &#10;red calasses">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task06_sayiBulmaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task06_sayiBulmaca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks08_whileLoops/Task13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks10/Odev01Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks10/Odev01Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks10/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks10/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks10/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks10/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks10/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks10/Task03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks10/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks10/Task05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks10/Task06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks10/Task06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks10/Task07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks10/Task07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +41,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/tasks10/Task05.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="2RCdpxeWgaTiOnDsh8Rp00lm3Vf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,7 +55,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/rumeysaarsevenoglu/IdeaProjects/Tasks/src&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/rumeysaarsevenoglu/IdeaProjects/Tasks/src/Main.java&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/rumeysaarsevenoglu/IdeaProjects/Tasks/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -44,9 +67,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Odev01Medium">
-    <configuration name="Odev01Medium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks10.Odev01Medium" />
+  <component name="RunManager" selected="Application.Task06">
+    <configuration name="Task06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks10.Task06" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
@@ -58,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.Task04" />
+    <configuration name="Task09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks08_whileLoops.Task09" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.*" />
+          <option name="PATTERN" value="Tasks08_whileLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.Task05" />
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks08_whileLoops.Task10" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.*" />
+          <option name="PATTERN" value="Tasks08_whileLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task06_sayiBulmaca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.Task06_sayiBulmaca" />
+    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks08_whileLoops.Task11" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.*" />
+          <option name="PATTERN" value="Tasks08_whileLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.Task07" />
+    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks08_whileLoops.Task13" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch08_Loops.L02_WhileLoop.Tasks08_whileLoops.*" />
+          <option name="PATTERN" value="Tasks08_whileLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Odev01Medium" />
-        <item itemvalue="Application.Task07" />
-        <item itemvalue="Application.Task06_sayiBulmaca" />
-        <item itemvalue="Application.Task05" />
-        <item itemvalue="Application.Task04" />
+        <item itemvalue="Application.Task06" />
+        <item itemvalue="Application.Task13" />
+        <item itemvalue="Application.Task11" />
+        <item itemvalue="Application.Task10" />
+        <item itemvalue="Application.Task09" />
       </list>
     </recent_temporary>
   </component>
@@ -150,13 +173,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686850918853</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task 10 added &#10;red calasses">
+      <created>1687020529554</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687020529554</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ch08 While Loop tasks" />
     <MESSAGE value="added tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="added tasks" />
+    <MESSAGE value="task 10 added &#10;red calasses" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 10 added &#10;red calasses" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
